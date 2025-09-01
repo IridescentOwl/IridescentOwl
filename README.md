@@ -135,8 +135,7 @@ dhairya@github:~$ exit
 
 <div align="center">
   <h3>Enjoy this snake eating up my contributions!</h3>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <p>To generate your own, check out <a href="https://github.com/Platane/snk">snk</a>.</p>
+  <img src="https://raw.githubusercontent.com/IridescentOwl/IridescentOwl/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
