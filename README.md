@@ -88,7 +88,7 @@ dhairya@github:~$ skills --list
     </td>
   </tr>
 </table>
-
+  
 ```bash
 dhairya@github:~$ cat /var/log/career.log
 ```
@@ -101,7 +101,6 @@ dhairya@github:~$ cat /var/log/career.log
   detail: Generated over 1.5 lakhs in revenue and grew online reach to 30,000+ users.
   status: SUCCESS
 ```
-
 
 ---
 
